@@ -10,5 +10,5 @@ npm install
 For run you use this command:
 
 ```
-npm node app
+node app
 ```
